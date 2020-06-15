@@ -1,0 +1,66 @@
+header{
+  text-align: center;
+  font-size: 70px;
+  margin: 0;
+
+}
+h3{
+  text-color : #FFFFFF;
+}
+p,li{
+  color : FFFFFF;
+}
+h1 {
+	font-family: 'Quattrocento Sans', sans-serif;
+	font-size: 20px;
+	padding-top: 50px;
+	margin: 0 0 0 20px;
+  text-align: center;
+  color : FFFFFF;
+}
+article{
+  color : #FFFFFF;
+}
+body {
+	background-color: #245;
+  margin: auto;
+}
+hr,h3{
+background:#FFFFFF;
+text-color : #FFFFFF;
+}
+h2,h4 {
+	font-family: "Arial Black", Gadget, sans-serif;
+	background-attachment: fixed;
+	background-color: #999;
+	background-repeat: no-repeat;
+	background-position: left top;
+
+}
+h2,h4 {
+	font-size: 14px;
+
+}
+
+main, img{
+  border: 1px sold green;
+box-shadow: 0px 10px 50px rgba(0, 0, 0, 7);
+}
+footer {
+	height: 50px;
+	text-align: right;
+    clear:both;
+    background:#FFFFFF;
+    }
+
+div {
+	margin: 60px;
+	padding: 60px;
+	clear: both;
+	float: left;
+	height: auto;
+	width: auto;
+}
+input {
+  color : FFFFFF;
+}
